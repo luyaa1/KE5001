@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = '科易互动机器人'
+project = 'keyes Wiki'
 author = 'keyes'
 copyright = 'Shenzhen KEYES DIY ROBOT co., Ltd.'
 
